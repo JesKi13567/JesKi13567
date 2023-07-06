@@ -1,21 +1,19 @@
 ### Hi there 👋
 
-## Who am I?
-
 ### I'm a datapack developer, wish to make great games in [Minecraft](https://www.minecraft.net).
 
-### Here're some social accounts of mine:
+- Github:[@JesKi13567](https://github.com/JesKi13567).
 
-- [JesKi13567](https://github.com/JesKi13567) on Github.
+- Afdian:[@JK13567](https://afdian.net/@JK13567).
 
-- [凤凰院i凶真](https://space.bilibili.com/285801820) on Bilibili.com.
+- Bilibili:[@凤凰院i凶真](https://space.bilibili.com/285801820).
 
-- [qweasdzxc_haha](https://www.mcbbs.net/?1479963) on mcbbs.net.
+- Mcbbs:[@qweasdzxc_haha](https://www.mcbbs.net/?1479963).
 
-- [JK137](https://center.mcmod.cn/295679/) on Mcmod.cn.
+- Mcmod:[@JK137](https://center.mcmod.cn/295679/).
 
-- [JK137](https://www.planetminecraft.com/member/jk137/) on planetminecraft.com.
+- PMC:[@JK137](https://www.planetminecraft.com/member/jk137/).
 
-- ..and **JK137** is my IGN in Minecraft Java Edition.
+- MCJE:**JK137**.
 
 ### Have a good time!㊗️
